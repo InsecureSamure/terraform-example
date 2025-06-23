@@ -1,2 +1,2 @@
 This code servers as an exmple.
-It is connected to the exmaple.com Azure tenant
+It connects to the exmaple.com Azure tenant
